@@ -1,0 +1,20 @@
+{
+  "name": "react-portfolio",
+  "version": "1.0.0",
+  "description": "Being a web developer means being part of a community. You’ll need a place not only to share your projects while you're applying for jobs or working as a freelancer but also to share your work with other developers and collaborate on projects.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EDEN-10/React-Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EDEN-10/React-Portfolio/issues"
+  },
+  "homepage": "https://github.com/EDEN-10/React-Portfolio#readme"
+}
